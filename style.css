@@ -1,0 +1,28 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(phongcanh1.jpg);
+  width: 100%;
+  height: 1000px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(phongcanh2.jpg);
+  width: 100%;
+  height: 1000px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(phongcanh3.jpg);
+  width: 100%;
+  height: 1000px;
+}
+
+.h-f {
+  width: 100%;
+  height: 100px;
+}
